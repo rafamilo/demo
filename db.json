@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "analise.vencimentos": {
+  "vencimentos": {
     "id": 17,
     "dataHoraInicio": "2019-07-12T20:13:57.295+0000",
     "dataHoraFim": null,
