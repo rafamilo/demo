@@ -14,8 +14,8 @@
   "vencimentos": {
     "id": 17,
     "dataHoraInicio": "2019-07-12T20:13:57.295+0000",
-    "dataHoraFim": null,
+    "dataHoraFim": "2019-07-12T20:13:57.295+0000",
     "uid": "4a154738-2030-45ce-b87e-de74cf0fdc4e",
-    "situacao": "EM_ANDAMENTO"
+    "situacao": "SUCESSO"
   }
 }
